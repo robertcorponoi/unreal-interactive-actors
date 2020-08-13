@@ -12,7 +12,7 @@ This demo was created with Unreal 4.25.3
 
 ## Instructions
 
-All you have to do is clone or download the repo and open it up in Unreal. When you hit play you can walk up to the desk and look at the drawer to open/close it or the lamp to turn it on/off.
+All you have to do is clone or download the repo and open it up in Unreal. Make sure that you load up the MainLevel under Levels/MainLevel and when you hit play you can walk up to the desk and look at the drawer to open/close it or the lamp to turn it on/off.
 
 ## **License**
 
